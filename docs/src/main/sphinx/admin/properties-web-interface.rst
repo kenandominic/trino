@@ -7,7 +7,7 @@ The following properties can be used to configure the :doc:`web-interface`.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * **Type:** :ref:`prop-type-string`
-* **Allowed values:** ``form``, ``fixed``, ``certificate``, ``kerberos``, ``jwt``, ``oauth2``
+* **Allowed values:** ``form``, ``fixed``, ``certificate``, ``kerberos``, ``jwt``, ``oauth2``, ``header``
 * **Default value:** ``form``
 
 The authentication mechanism to allow user access to the Web UI. See
